@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+    border:box-sizing;
+}
+
+html{
+    --main-bg-color: rgb(255, 255, 255);
+    --button-color: rgba(22, 202, 246, 0.835);
+    --shadow:rgb(221, 221, 221);
+    --grey:rgb(160, 160, 160);
+    font-family: Poppins;
+}

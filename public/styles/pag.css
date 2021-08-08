@@ -1,0 +1,28 @@
+html{
+    font-family: Poppins;
+}
+
+#home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+#home{
+    margin:8px;
+}
+
+#logout{
+    border:none;
+    border-radius: 10px;
+    width: 80px;
+    height: 50px;
+    background: var(--button-color);
+    box-shadow: var(--shadow) 1px 1px 5px 1px;
+}
+
+#logout:hover{
+    background: var(--grey);
+    color:white;
+    cursor: pointer;
+}
